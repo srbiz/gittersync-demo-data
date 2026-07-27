@@ -1,0 +1,73 @@
+{
+  "collection": "column_in-progress",
+  "version": 1,
+  "updatedAt": "2026-07-27T18:24:15.755Z",
+  "documents": {
+    "060c9284-9ffe-4ee2-a1cd-a0f86b56061a": {
+      "id": "060c9284-9ffe-4ee2-a1cd-a0f86b56061a",
+      "data": {
+        "title": "Test Task from OpenCode",
+        "description": "Testing the GitterSync demo with automated browser test",
+        "priority": "medium",
+        "assignee": "srbiz",
+        "dueDate": "",
+        "labels": "[]",
+        "columnId": "in-progress",
+        "position": 0,
+        "attachments": "[]",
+        "createdAt": "2026-07-27T18:19:14.110Z",
+        "updatedAt": "2026-07-27T18:19:27.627Z"
+      },
+      "_fields": {
+        "title": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "description": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "priority": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "assignee": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "dueDate": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "labels": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "columnId": {
+          "updatedAt": "2026-07-27T18:23:33.135Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "position": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "attachments": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "createdAt": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        },
+        "updatedAt": {
+          "updatedAt": "2026-07-27T18:19:27.627Z",
+          "device": "7044f40c-90cb-4360-a47d-85ab60efe546"
+        }
+      },
+      "updated_at": "2026-07-27T18:19:27.627Z",
+      "created_at": "2026-07-27T18:19:27.627Z",
+      "deleted_at": null,
+      "deleted_by": null
+    }
+  }
+}
