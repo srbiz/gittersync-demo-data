@@ -1,0 +1,108 @@
+{
+  "deviceId": "43e7ac73-c2a0-4360-95a6-4a7561148545",
+  "timestamp": "2026-07-27T21:29:01.200Z",
+  "changes": [
+    {
+      "collection": "column_in-progress",
+      "docId": "060c9284-9ffe-4ee2-a1cd-a0f86b56061a",
+      "op": "update",
+      "fields": {
+        "title": {
+          "value": "Test Task from srbiz",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "description": {
+          "value": "Testing the GitterSync demo test",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "priority": {
+          "value": "medium",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "assignee": {
+          "value": "srbiz",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "dueDate": {
+          "value": "",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "labels": {
+          "value": "[]",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "columnId": {
+          "value": "in-progress",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "position": {
+          "value": 0,
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "attachments": {
+          "value": "[]",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "createdAt": {
+          "value": "2026-07-27T18:19:27.627Z",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        },
+        "updatedAt": {
+          "value": "2026-07-27T21:28:55.891Z",
+          "updatedAt": "2026-07-27T21:28:55.895Z"
+        }
+      }
+    },
+    {
+      "collection": "column_in-progress",
+      "docId": "060c9284-9ffe-4ee2-a1cd-a0f86b56061a",
+      "op": "update",
+      "fields": {
+        "title": {
+          "value": "Test Task from srbiz",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "description": {
+          "value": "Testing the GitterSync demo test",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "priority": {
+          "value": "medium",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "assignee": {
+          "value": "srbiz",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "dueDate": {
+          "value": "",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "labels": {
+          "value": "[]",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "columnId": {
+          "value": "in-progress",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "position": {
+          "value": 0,
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "attachments": {
+          "value": "[{\"id\":\"40684f0f-0058-4331-a028-78bdc5b55d25\",\"name\":\"card-img.jpg\",\"path\":\"files/060c9284-9ffe-4ee2-a1cd-a0f86b56061a/card-img.jpg\",\"mimeType\":\"image/jpeg\",\"size\":51198,\"uploadedAt\":\"2026-07-27T21:28:58.391Z\"}]",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "createdAt": {
+          "value": "2026-07-27T18:19:27.627Z",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        },
+        "updatedAt": {
+          "value": "2026-07-27T21:28:55.891Z",
+          "updatedAt": "2026-07-27T21:28:58.392Z"
+        }
+      }
+    }
+  ]
+}
