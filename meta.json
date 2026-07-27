@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 0,
+  "collections": {
+    "column_todo": {
+      "version": 1,
+      "sha": "c5bbda36016db968724d18fbea55ea76d4f9072d"
+    },
+    "column_in-progress": {
+      "version": 1,
+      "sha": "1d07440c5741af262ce291d8b5e2c16133ffc523"
+    },
+    "column_review": {
+      "version": 0,
+      "sha": ""
+    },
+    "column_done": {
+      "version": 0,
+      "sha": ""
+    }
+  },
+  "changelogCount": 0
+}
