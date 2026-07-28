@@ -1,0 +1,73 @@
+{
+  "collection": "column_done",
+  "version": 1,
+  "updatedAt": "2026-07-28T15:30:13.601Z",
+  "documents": {
+    "060c9284-9ffe-4ee2-a1cd-a0f86b56061a": {
+      "id": "060c9284-9ffe-4ee2-a1cd-a0f86b56061a",
+      "data": {
+        "title": "Test Task from srbiz",
+        "description": "Testing the GitterSync demo test",
+        "priority": "medium",
+        "assignee": "srbiz",
+        "dueDate": "",
+        "labels": "[]",
+        "columnId": "done",
+        "position": 0,
+        "attachments": "[{\"id\":\"40684f0f-0058-4331-a028-78bdc5b55d25\",\"name\":\"card-img.jpg\",\"path\":\"files/060c9284-9ffe-4ee2-a1cd-a0f86b56061a/card-img.jpg\",\"mimeType\":\"image/jpeg\",\"size\":51198,\"uploadedAt\":\"2026-07-27T21:28:58.391Z\"}]",
+        "createdAt": "2026-07-27T18:19:27.627Z",
+        "updatedAt": "2026-07-27T21:30:41.014Z"
+      },
+      "_fields": {
+        "title": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "description": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "priority": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "assignee": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "dueDate": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "labels": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "columnId": {
+          "updatedAt": "2026-07-27T21:31:13.406Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "position": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "attachments": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "createdAt": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "updatedAt": {
+          "updatedAt": "2026-07-27T21:30:41.027Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        }
+      },
+      "updated_at": "2026-07-27T21:30:41.027Z",
+      "created_at": "2026-07-27T21:30:41.027Z",
+      "deleted_at": "2026-07-27T21:31:30.033Z",
+      "deleted_by": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+    }
+  }
+}
