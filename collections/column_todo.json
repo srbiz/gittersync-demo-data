@@ -1,7 +1,7 @@
 {
   "collection": "column_todo",
-  "version": 1,
-  "updatedAt": "2026-07-27T18:24:13.924Z",
+  "version": 2,
+  "updatedAt": "2026-07-28T15:30:15.552Z",
   "documents": {
     "060c9284-9ffe-4ee2-a1cd-a0f86b56061a": {
       "id": "060c9284-9ffe-4ee2-a1cd-a0f86b56061a",
@@ -68,6 +68,138 @@
       "created_at": "2026-07-27T18:19:27.627Z",
       "deleted_at": "2026-07-27T18:23:33.136Z",
       "deleted_by": "7044f40c-90cb-4360-a47d-85ab60efe546"
+    },
+    "efedf4f2-32e1-4e0a-b3bf-42dd32e0b892": {
+      "id": "efedf4f2-32e1-4e0a-b3bf-42dd32e0b892",
+      "data": {
+        "title": "Todo test 1 - EDITED",
+        "description": "this is todo test with image",
+        "priority": "medium",
+        "assignee": "srbiz",
+        "dueDate": "2026-07-28",
+        "labels": "[]",
+        "columnId": "todo",
+        "position": 0,
+        "attachments": "[{\"id\":\"41c93d48-32ec-45f8-8fda-c3f0c86b8888\",\"name\":\"card-img.jpg\",\"path\":\"files/efedf4f2-32e1-4e0a-b3bf-42dd32e0b892/card-img.jpg\",\"mimeType\":\"image/jpeg\",\"size\":51198,\"uploadedAt\":\"2026-07-27T21:35:37.131Z\"}]",
+        "createdAt": "2026-07-27T21:34:44.473Z",
+        "updatedAt": "2026-07-28T15:27:16.811Z"
+      },
+      "_fields": {
+        "title": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "description": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "priority": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "assignee": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "dueDate": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "labels": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "columnId": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "position": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "attachments": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "createdAt": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "updatedAt": {
+          "updatedAt": "2026-07-28T15:27:16.870Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        }
+      },
+      "updated_at": "2026-07-28T15:27:16.870Z",
+      "created_at": "2026-07-27T21:34:44.473Z",
+      "deleted_at": null,
+      "deleted_by": null
+    },
+    "83613cef-30e0-4d56-844b-31b5a70e4a2f": {
+      "id": "83613cef-30e0-4d56-844b-31b5a70e4a2f",
+      "data": {
+        "title": "Playwright Test Task",
+        "description": "This task was created by Playwright automated testing",
+        "priority": "high",
+        "assignee": "srbiz",
+        "dueDate": "2026-08-15",
+        "labels": "[]",
+        "columnId": "todo",
+        "position": 1,
+        "attachments": "[]",
+        "createdAt": "2026-07-28T15:25:46.922Z",
+        "updatedAt": "2026-07-28T15:26:38.042Z"
+      },
+      "_fields": {
+        "title": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "description": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "priority": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "assignee": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "dueDate": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "labels": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "columnId": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "position": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "attachments": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "createdAt": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        },
+        "updatedAt": {
+          "updatedAt": "2026-07-28T15:26:38.043Z",
+          "device": "bbba11c3-1d65-430b-b435-7871eb947dfa"
+        }
+      },
+      "updated_at": "2026-07-28T15:26:38.043Z",
+      "created_at": "2026-07-28T15:26:38.043Z",
+      "deleted_at": "2026-07-28T15:27:35.560Z",
+      "deleted_by": "bbba11c3-1d65-430b-b435-7871eb947dfa"
     }
   }
 }
