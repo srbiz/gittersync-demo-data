@@ -1,0 +1,63 @@
+{
+  "deviceId": "bbba11c3-1d65-430b-b435-7871eb947dfa",
+  "timestamp": "2026-07-28T15:27:40.732Z",
+  "changes": [
+    {
+      "collection": "column_todo",
+      "docId": "efedf4f2-32e1-4e0a-b3bf-42dd32e0b892",
+      "op": "update",
+      "fields": {
+        "title": {
+          "value": "Todo test 1 - EDITED",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "description": {
+          "value": "this is todo test with image",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "priority": {
+          "value": "medium",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "assignee": {
+          "value": "srbiz",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "dueDate": {
+          "value": "2026-07-28",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "labels": {
+          "value": "[]",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "columnId": {
+          "value": "todo",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "position": {
+          "value": 0,
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "attachments": {
+          "value": "[{\"id\":\"41c93d48-32ec-45f8-8fda-c3f0c86b8888\",\"name\":\"card-img.jpg\",\"path\":\"files/efedf4f2-32e1-4e0a-b3bf-42dd32e0b892/card-img.jpg\",\"mimeType\":\"image/jpeg\",\"size\":51198,\"uploadedAt\":\"2026-07-27T21:35:37.131Z\"}]",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "createdAt": {
+          "value": "2026-07-27T21:34:44.473Z",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        },
+        "updatedAt": {
+          "value": "2026-07-28T15:27:16.811Z",
+          "updatedAt": "2026-07-28T15:27:16.870Z"
+        }
+      }
+    },
+    {
+      "collection": "column_todo",
+      "docId": "83613cef-30e0-4d56-844b-31b5a70e4a2f",
+      "op": "delete",
+      "deletedAt": "2026-07-28T15:27:35.560Z"
+    }
+  ]
+}
