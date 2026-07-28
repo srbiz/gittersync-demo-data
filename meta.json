@@ -10,12 +10,12 @@
       "sha": "1d07440c5741af262ce291d8b5e2c16133ffc523"
     },
     "column_review": {
-      "version": 0,
-      "sha": ""
+      "version": 1,
+      "sha": "e5ee5841addbb01ff809ffa54928a9df935c9ff6"
     },
     "column_done": {
-      "version": 0,
-      "sha": ""
+      "version": 1,
+      "sha": "a535210781f1410aa9a2589f7d72553391f692af"
     }
   },
   "changelogCount": 0
