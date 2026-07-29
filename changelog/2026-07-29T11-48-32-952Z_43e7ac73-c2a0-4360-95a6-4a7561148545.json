@@ -1,0 +1,57 @@
+{
+  "deviceId": "43e7ac73-c2a0-4360-95a6-4a7561148545",
+  "timestamp": "2026-07-29T11:48:32.952Z",
+  "changes": [
+    {
+      "collection": "column_todo",
+      "docId": "1e7726b5-6931-48cc-ae30-18aa5482f733",
+      "op": "create",
+      "fields": {
+        "title": {
+          "value": "offline",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "description": {
+          "value": "offline queue test",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "priority": {
+          "value": "medium",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "assignee": {
+          "value": "srbiz",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "dueDate": {
+          "value": "",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "labels": {
+          "value": "[]",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "columnId": {
+          "value": "todo",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "position": {
+          "value": 1,
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "attachments": {
+          "value": "[]",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "createdAt": {
+          "value": "2026-07-29T11:47:26.351Z",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        },
+        "updatedAt": {
+          "value": "2026-07-29T11:47:59.791Z",
+          "updatedAt": "2026-07-29T11:47:59.791Z"
+        }
+      }
+    }
+  ]
+}
