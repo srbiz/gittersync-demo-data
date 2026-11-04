@@ -1,0 +1,74 @@
+{
+  "deviceId": "09233794-bcde-43ef-8692-042255b8b1fc",
+  "timestamp": "2026-11-04T07:50:41.124Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "0fabce53-c17f-40cf-b64c-57bc9b396908",
+      "op": "create",
+      "fields": {
+        "id": {
+          "value": "0fabce53-c17f-40cf-b64c-57bc9b396908",
+          "updatedAt": "2026-11-04T07:50:21.381Z"
+        },
+        "title": {
+          "value": "Hello Govind",
+          "updatedAt": "2026-11-04T07:50:21.381Z"
+        },
+        "done": {
+          "value": false,
+          "updatedAt": "2026-11-04T07:50:21.381Z"
+        },
+        "createdAt": {
+          "value": "2026-11-04T07:50:21.378Z",
+          "updatedAt": "2026-11-04T07:50:21.381Z"
+        },
+        "updatedAt": {
+          "value": "2026-11-04T07:50:21.378Z",
+          "updatedAt": "2026-11-04T07:50:21.381Z"
+        },
+        "completedAt": {
+          "value": null,
+          "updatedAt": "2026-11-04T07:50:21.381Z"
+        }
+      }
+    },
+    {
+      "collection": "todos",
+      "docId": "0fabce53-c17f-40cf-b64c-57bc9b396908",
+      "op": "delete",
+      "deletedAt": "2026-11-04T07:50:25.972Z"
+    },
+    {
+      "collection": "todos",
+      "docId": "a080d666-c3f6-4dbe-81bf-a796ee0774d4",
+      "op": "create",
+      "fields": {
+        "id": {
+          "value": "a080d666-c3f6-4dbe-81bf-a796ee0774d4",
+          "updatedAt": "2026-11-04T07:50:30.336Z"
+        },
+        "title": {
+          "value": "Hello Govind",
+          "updatedAt": "2026-11-04T07:50:30.336Z"
+        },
+        "done": {
+          "value": false,
+          "updatedAt": "2026-11-04T07:50:30.336Z"
+        },
+        "createdAt": {
+          "value": "2026-11-04T07:50:30.332Z",
+          "updatedAt": "2026-11-04T07:50:30.336Z"
+        },
+        "updatedAt": {
+          "value": "2026-11-04T07:50:30.332Z",
+          "updatedAt": "2026-11-04T07:50:30.336Z"
+        },
+        "completedAt": {
+          "value": null,
+          "updatedAt": "2026-11-04T07:50:30.336Z"
+        }
+      }
+    }
+  ]
+}
